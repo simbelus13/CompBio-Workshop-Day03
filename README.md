@@ -71,7 +71,7 @@ Implements a **machine learning workflow** for predicting **active drug candidat
 
 ### 3️⃣ Drug Binding Pocket  
 - The **binding pocket** where ligands (drug candidates) interact can be visualized from the **PDB structure (1L2S)**.
-- ![Binding pocket](https://drive.google.com/uc?export=view&id=1QATymwgdhWrkI0DuX2ToOqAiw6_yaGNL)
+![Binding pocket](https://drive.google.com/uc?export=view&id=1QATymwgdhWrkI0DuX2ToOqAiw6_yaGNL)
 
 ### 4️⃣ Drugs Targeting AmpC  
 Several **beta-lactam antibiotics** target **AmpC beta-lactamase**, including:
@@ -80,7 +80,7 @@ Several **beta-lactam antibiotics** target **AmpC beta-lactamase**, including:
 - **Monobactams**
 - **Carbapenems**
 
-📌 **References:**
+📌 **Source:**
 - [Penicillin-binding proteins: Master builders and breakers of bacterial cell walls](https://journals.asm.org/doi/10.1128/aac.01548-23)  
 - [β-Lactam Resistance in ESKAPE Pathogens](https://www.mdpi.com/2218-273X/11/7/1057)  
 
@@ -98,7 +98,7 @@ AmpC-targeting antibiotics are used to treat:
 - **Sepsis**
 - **Osteomyelitis**  
 
-📌 **References:**
+📌 **Source:**
 - [Ceftazidime-Avibactam for Treatment of Gram-Negative Infections](https://journals.asm.org/doi/10.1128/aac.01548-23)  
 
 ### 7️⃣ Mutations in AmpC Binding Pocket  
