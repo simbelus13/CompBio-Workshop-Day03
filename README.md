@@ -71,7 +71,7 @@ Implements a **machine learning workflow** for predicting **active drug candidat
 
 ### 3️⃣ Drug Binding Pocket  
 - The **binding pocket** where ligands (drug candidates) interact can be visualized from the **PDB structure (1L2S)**.
-- ![](https://drive.google.com/file/d/1QATymwgdhWrkI0DuX2ToOqAiw6_yaGNL/view?usp=sharing)
+- ![Binding pocket](https://drive.google.com/uc?export=view&id=1QATymwgdhWrkI0DuX2ToOqAiw6_yaGNL)
 
 ### 4️⃣ Drugs Targeting AmpC  
 Several **beta-lactam antibiotics** target **AmpC beta-lactamase**, including:
