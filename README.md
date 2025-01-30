@@ -52,11 +52,11 @@ Implements a **machine learning workflow** for predicting **active drug candidat
 | **AUC Score**   | 91.0%         | 89.2%        |
 
 ✅ **Top Features Contributing to Predictions:**  
-1️⃣ `vdw(i=6_j=12_s=1_^=100_c=8)`  
-2️⃣ `gauss(o=3_w=2_c=8)`  
-3️⃣ `non_hydrophobic(g=0.5_b=1.5_c=8)`  
-4️⃣ `repulsion(o=0_c=8)`  
-5️⃣ `num_heavy_atoms`  
+- `vdw(i=6_j=12_s=1_^=100_c=8)`  
+- `gauss(o=3_w=2_c=8)`  
+- `non_hydrophobic(g=0.5_b=1.5_c=8)`  
+- `repulsion(o=0_c=8)`  
+- `num_heavy_atoms`  
 
 ## 📌 AmpC Protein Background  
 
@@ -98,14 +98,11 @@ AmpC-targeting antibiotics are used to treat:
 - **Sepsis**
 - **Osteomyelitis**  
 
-📌 **Source:**
-- [Ceftazidime-Avibactam for Treatment of Gram-Negative Infections](https://journals.asm.org/doi/10.1128/aac.01548-23)  
+📌 **Source:** [Ceftazidime-Avibactam for Treatment of Gram-Negative Infections](https://journals.asm.org/doi/10.1128/aac.01548-23)  
 
 ### 7️⃣ Mutations in AmpC Binding Pocket  
 - **No known mutations** have been found in the **1L2S binding pocket** that significantly affect drug binding.  
 
-📌 **Source:** [RCSB PDB - 1L2S](https://www.rcsb.org/structure/1L2S)  
-
----
+📌 **Source:** [RCSB PDB - 1L2S](https://www.rcsb.org/structure/1L2S) 
 
 
