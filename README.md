@@ -58,10 +58,54 @@ Implements a **machine learning workflow** for predicting **active drug candidat
 4️⃣ `repulsion(o=0_c=8)`  
 5️⃣ `num_heavy_atoms`  
 
+## 📌 AmpC Protein Background  
+
+### 1️⃣ What is AmpC?  
+- **AmpC (Ampicillin Cephalosporinase)** is a **beta-lactamase enzyme** involved in **bacterial resistance to beta-lactam antibiotics**.
+- It refers to the **crystal structure of Penicillin Binding Protein (PBP3)**.
+
+### 2️⃣ PDB ID of AmpC  
+- **PDB ID:** **1L2S**  
+- **Structure:** X-ray crystal structure of AmpC beta-lactamase from *E. coli* in complex with a DOCK-predicted non-covalent inhibitor.  
+- **Source:** [RCSB PDB - 1L2S](https://www.rcsb.org/structure/1L2S)  
+
+### 3️⃣ Drug Binding Pocket  
+- The **binding pocket** where ligands (drug candidates) interact can be visualized from the **PDB structure (1L2S)**.
+- ![](https://drive.google.com/file/d/1QATymwgdhWrkI0DuX2ToOqAiw6_yaGNL/view?usp=sharing)
+
+### 4️⃣ Drugs Targeting AmpC  
+Several **beta-lactam antibiotics** target **AmpC beta-lactamase**, including:
+- **Cephalosporins**
+- **Penicillins**
+- **Monobactams**
+- **Carbapenems**
+
+📌 **References:**
+- [Penicillin-binding proteins: Master builders and breakers of bacterial cell walls](https://journals.asm.org/doi/10.1128/aac.01548-23)  
+- [β-Lactam Resistance in ESKAPE Pathogens](https://www.mdpi.com/2218-273X/11/7/1057)  
+
+### 5️⃣ Protein Interactions with AmpC (PBP3)  
+AmpC (PBP3) interacts with several key proteins involved in **bacterial cell division**, including:
+- **FtsZ** → Forms a contractile ring for bacterial division.  
+- **FtsA** → Links FtsZ to the cytoplasmic membrane.  
+- **FtsW** → Works with PBP3 to synthesize new bacterial cell wall components.  
+
+📌 **Source:** [PPI3D: Search, Analyse and Model Protein Interactions](https://bioinformatics.lt/ppi3d)  
+
+### 6️⃣ Diseases Where AmpC Inhibitors are Effective  
+AmpC-targeting antibiotics are used to treat:
+- **Hospital-Acquired Pneumonia (HAP)**
+- **Sepsis**
+- **Osteomyelitis**  
+
+📌 **References:**
+- [Ceftazidime-Avibactam for Treatment of Gram-Negative Infections](https://journals.asm.org/doi/10.1128/aac.01548-23)  
+
+### 7️⃣ Mutations in AmpC Binding Pocket  
+- **No known mutations** have been found in the **1L2S binding pocket** that significantly affect drug binding.  
+
+📌 **Source:** [RCSB PDB - 1L2S](https://www.rcsb.org/structure/1L2S)  
+
 ---
 
-## 🚀 How to Run the Notebook  
 
-### 1️⃣ Install Dependencies  
-```bash
-pip install -r requirements.txt
